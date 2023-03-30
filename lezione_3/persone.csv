@@ -1,10 +1,3 @@
- nome,cognome,peso,altezza
-Mario,Rossi,80,1.65
-Luca,Sebastiani,60,1.7
-Maria,Stellina,91,1.9
-Fabio,Castiglia,70,1.7
-Marco,Peppino,83,1.73
-Paola,Merino,67,1.67
-Raffaello,Galeotti,85,1.81
-Tancredi,Buontalenti,77,1.69
-Francesco,Lulli,70,1.78
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3919097f96ec782caf1ae78124bed085331d3833da5459633f08dd4cd608558
+size 238
